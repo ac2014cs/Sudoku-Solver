@@ -1,0 +1,18 @@
+#VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+#Local History for VS code
+.history/
+
+#Common Credentials
+**/credentials.json
+**/client_secrets.json
+**client_secret.json
+
+#Read me
+
+**/README.md
